@@ -4,7 +4,7 @@
 
 🔗 **คลิปแนะนำตัว:** 
 
-[![คลิกที่นี่](https://img.youtube.com/vi/H9mRanNe7O4/maxresdefualt.jpg)](https://youtu.be/H9mRanNe7O4)
+[![คลิกที่นี่](https://img.youtube.com/vi/H9mRanNe7O4/hqdefault.jpg)](https://youtu.be/H9mRanNe7O4)
 
 ## ✨ WORK COLLECTIONS
 
