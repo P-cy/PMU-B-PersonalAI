@@ -4,7 +4,7 @@
 
 🔗 **คลิปแนะนำตัว:** 
 
-[![คลิกที่นี่](https://img2.pic.in.th/pic/417686845_1181605409913062_6546916061183589537_n.jpeg)](https://youtu.be/H9mRanNe7O4)
+[![คลิกที่นี่](https://img.youtube.com/vi/H9mRanNe7O4/0.jpg)](https://youtu.be/H9mRanNe7O4)
 
 ## ✨ WORK COLLECTIONS
 
