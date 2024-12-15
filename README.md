@@ -6,7 +6,7 @@
 
 [![คลิกที่นี่](https://img2.pic.in.th/pic/417686845_1181605409913062_6546916061183589537_n.jpeg)](https://youtu.be/H9mRanNe7O4)
 
-##✨ WORK COLLECTIONS
+## ✨ WORK COLLECTIONS
 
 ### xPore: An AI-Powered App for Bioinformaticians
 - **⌨️ Homework:** [See Work](https://github.com/P-cy/PMU-B-PersonalAI/blob/cf2f41d25b684c72cece72d705c30210856dec6d/GMM_Phatthanasak.ipynb)
